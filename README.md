@@ -22,6 +22,8 @@ Shop-Shop is an example of an eCommerce website, API, and back-end server. Allow
 
 ## Demonstration
 * [LiveHerokuLink] ( https://limitless-gorge-41518.herokuapp.com/ ) 
+* ![Screenshot (56)](https://user-images.githubusercontent.com/88976571/151679824-22f48b41-0b1f-48ea-b705-5c3a368823c7.png)
+
 
 ## License 
 This project is licensed under ISC
